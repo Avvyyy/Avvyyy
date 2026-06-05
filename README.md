@@ -1,20 +1,41 @@
-### Hi there 👋
+## Favour Uzochukwu — Frontend Engineer
 
-# About Me
-I am Favour and I am a student at Babcock University. There is more to me than that though.
+I build web products end-to-end — from responsive UIs and design systems
+to backend APIs and admin tooling.
 
-## I am
-- A Front-End Developer(Heavy on ReactJS although I prefer Vue.js)
-- A content writer (For She Code Africa, Babcock)
-- A Student Ambassador (Technovation,, Microsoft Learn)
-- ALX Software Engineering Student
+ALX Software Engineering
 
-I am a full package - Call me a GenZ Tech Baddie
+---
 
-- 🔭 I’m currently working on building solutions using Azure and Microsoft Services
-- 🌱 I’m currently learning anything I can learn to make a significant global change
-- 👯 I’m looking to collaborate on Software Engineering and AI projects
-- 💬 Ask me about anything related to being a student ambassador, Git and Front-End Development
-- 📫 How to reach me: uzochukwu.favour310@gmail.com
-- ⚡ Fun fact: I write codes and content that resonate with the soul
+### 💻 What I'm working on
 
+- 🤖 **MingoolAI** — AI productivity tool for founders
+- 📊 **Ichaka** — preserving African languages and culture,
+  user management, and call tracking
+- 🏗️ Improving my NestJS + Prisma backend patterns for full-stack projects
+
+---
+
+### 🛠️ Core stack
+
+```
+Frontend   →  React · Next.js · Nuxt.js · Vue.js · TypeScript
+Styling    →  TailwindCSS · ShadcnUI · Bootstrap
+Backend    →  NestJS · Node.js · Express.js · PHP . Golang . Python
+Databases  →  MongoDB · MySQL · NeonDB · Prisma ORM . PostgreSwl
+Infra      →  Docker · Git · GitHub · GitLab
+```
+
+---
+
+### 🤝 Let's connect
+
+I'm open to frontend / full-stack roles, open-source collaboration,
+and interesting product ideas.
+
+📧 uzochukwu.favour310@gmail.com
+🔗 [linkedin.com/in/favour-uzochukwu](https://www.linkedin.com/in/favour-uzochukwu/)
+
+![My GitHub Stats](https://vercel.app)
+
+![My Top Languages](https://vercel.app)
