@@ -35,4 +35,3 @@ and interesting product ideas.
 
 📧 uzochukwu.favour310@gmail.com
 🔗 [linkedin.com/in/favour-uzochukwu](https://www.linkedin.com/in/favour-uzochukwu/)
-![Favour's GitHub stats](https://github-readme-stats.vercel.app/api?username=avvyyy&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
