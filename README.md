@@ -35,7 +35,4 @@ and interesting product ideas.
 
 📧 uzochukwu.favour310@gmail.com
 🔗 [linkedin.com/in/favour-uzochukwu](https://www.linkedin.com/in/favour-uzochukwu/)
-
-![My GitHub Stats](https://vercel.app)
-
-![My Top Languages](https://vercel.app)
+[![Favour's GitHub stats](https://github-readme-stats.vercel.app/api?username=avvyyy)](https://github.com/anuraghazra/github-readme-stats)
