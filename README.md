@@ -12,7 +12,6 @@ ALX Software Engineering
 - 🤖 **MingoolAI** — AI productivity tool for founders
 - 📊 **Ichaka** — preserving African languages and culture,
   user management, and call tracking
-- 🏗️ Improving my NestJS + Prisma backend patterns for full-stack projects
 
 ---
 
